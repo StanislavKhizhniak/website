@@ -1,0 +1,47 @@
+<!-- Модальное окно регистрации -->
+<div id="signin-modal" class="modal">
+  <div class="modal-overlay"></div>
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2 data-i18n="modal.title">Регистрация</h2>
+      <button class="modal-close" id="modal-close">&times;</button>
+    </div>
+    
+    <form id="signin-form" class="signin-form">
+      <div class="form-group">
+        <label for="email" data-i18n="modal.email">Email</label>
+        <input type="email" id="email" name="email" required placeholder="Введите ваш email">
+      </div>
+      
+      <div class="form-group">
+        <label for="password" data-i18n="modal.password">Пароль</label>
+        <div class="password-input-wrapper">
+          <input type="password" id="password" name="password" required placeholder="Введите пароль">
+          <button type="button" class="password-toggle" id="password-toggle">
+            <img src="assets/svg/password/eye-closed.svg" alt="Показать пароль" width="20" height="20" id="password-eye">
+          </button>
+        </div>
+      </div>
+      
+      <div class="form-group">
+        <label for="confirm-password" data-i18n="modal.confirmPassword">Подтвердите пароль</label>
+        <div class="password-input-wrapper">
+          <input type="password" id="confirm-password" name="confirm-password" required placeholder="Повторите пароль">
+          <button type="button" class="password-toggle" id="confirm-password-toggle">
+            <img src="assets/svg/password/eye-closed.svg" alt="Показать пароль" width="20" height="20" id="confirm-password-eye">
+          </button>
+        </div>
+      </div>
+      
+      <div class="form-actions">
+        <button type="submit" class="btn-primary" data-i18n="modal.register">Зарегистрироваться</button>
+        <button type="button" class="btn-secondary" id="modal-cancel">Отмена</button>
+      </div>
+    </form>
+    
+    <!-- Кнопка закрытия после успешной регистрации -->
+    <div id="success-actions" class="form-actions" style="display: none; margin-top: 20px;">
+      <button type="button" class="btn-primary" id="modal-close-success" data-i18n="modal.close">Закрыть</button>
+    </div>
+  </div>
+</div> 

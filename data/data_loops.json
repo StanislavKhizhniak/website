@@ -1,0 +1,84 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "GTA - 152 Amin @1dazey.mp3",
+      "author": {
+        "name": "Слава КПСС",
+        "awards": ["vip", "gold", "platinum"]
+      },
+      "cover": "assets/svg/track-card/track-cover.svg",
+      "metrics": {
+        "key": "Am",
+        "bpm": 150
+      },
+      "tags": ["glo", "chiefkeef", "kankan", "lucki"],
+      "stats": {
+        "likes": 10,
+        "dislikes": 10,
+        "favorites": 1
+      },
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Dark Trap Beat - Gucci Gang @ggol.mp3",
+      "author": {
+        "name": "Серёга Пират",
+        "awards": ["gold"]
+      },
+      "cover": "assets/svg/track-card/track-cover.svg",
+      "metrics": {
+        "key": "Fm",
+        "bpm": 140
+      },
+      "tags": ["trap", "dark", "underground", "hiphop"],
+      "stats": {
+        "likes": 25,
+        "dislikes": 3,
+        "favorites": 8
+      },
+      "status": "approved"
+    },
+    {
+      "id": 3,
+      "title": "Drill Type Beat - Da pox epta mne @sssssh.mp3",
+      "author": {
+        "name": "MC Hobanckiy",
+        "awards": ["gold"]
+      },
+      "cover": "assets/svg/track-card/track-cover.svg",
+      "metrics": {
+        "key": "C#m",
+        "bpm": 135
+      },
+      "tags": ["drill", "uk", "london", "street"],
+      "stats": {
+        "likes": 42,
+        "dislikes": 7,
+        "favorites": 15
+      },
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Lo-Fi Hip Hop - Japanesse Girl @helloeverynyah.mp3",
+      "author": {
+        "name": "なぜあなたはそれを翻訳したのですか、あなたは何もする必要はありませんか？",
+        "awards": ["vip"]
+      },
+      "cover": "assets/svg/track-card/track-cover.svg",
+      "metrics": {
+        "key": "D",
+        "bpm": 85
+      },
+      "tags": ["lofi", "chill", "study", "relax"],
+      "stats": {
+        "likes": 67,
+        "dislikes": 2,
+        "favorites": 23
+      },
+      "status": "approved"
+    }
+  ]
+}

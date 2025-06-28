@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "user_1750937895225_a8xzl2thc",
+      "email": "stasyanbezbashki@mail.ru",
+      "password": "ЧУВААК",
+      "timestamp": "2025-06-26T11:38:15.225Z",
+      "status": "pending",
+      "registrationDate": "2025-06-26T11:38:15.225Z",
+      "emailVerified": false
+    },
+    {
+      "id": "user_1750941030859_ohng73xik",
+      "email": "yasha@lava.ru",
+      "password": "123456",
+      "timestamp": "2025-06-26T12:30:30.858Z",
+      "status": "pending",
+      "registrationDate": "2025-06-26T12:30:30.859Z",
+      "emailVerified": false
+    },
+    {
+      "id": "user_1750941327992_pthcpjme5",
+      "email": "skuf@vtanke.gmail",
+      "password": "Альтушка",
+      "timestamp": "2025-06-26T12:35:27.992Z",
+      "status": "pending",
+      "registrationDate": "2025-06-26T12:35:27.992Z",
+      "emailVerified": false
+    }
+  ],
+  "lastUpdate": "2025-06-26T12:35:28.000Z",
+  "totalUsers": 3,
+  "metadata": {
+    "description": "Данные пользователей COLCON",
+    "version": "1.0",
+    "created": "2024-01-01T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<template id="track-card-template">
+  <div class="track-card">
+    <div class="track-card__top">
+      <div class="track-card__cover">
+        <img src="" alt="Track cover" data-track-cover>
+      </div>
+      
+      <div class="track-card__info">
+        <div class="track-card__main-info">
+          <div class="track-card__titles">
+            <h2 class="track-card__track-name" data-track-title></h2>
+            <div class="track-card__author">
+              <span class="track-card__author-name" data-track-author></span>
+              <div class="track-card__awards" data-track-awards>
+              </div>
+            </div>
+          </div>
+          
+          <div class="track-card__metrics">
+            <div class="track-card__key" data-track-key></div>
+            <div class="track-card__bpm" data-track-bpm></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="track-card__bottom">
+      <div class="track-card__tags" data-track-tags>
+      </div>
+      
+      <div class="track-card__actions">
+        <div class="track-card__rating">
+          <button class="track-card__btn track-card__like" data-track-action="like">
+            <img src="" alt="Like" data-svg-icon="like">
+            <span data-track-likes></span>
+          </button>
+          <button class="track-card__btn track-card__dislike" data-track-action="dislike">
+            <img src="" alt="Dislike" data-svg-icon="dislike">
+            <span data-track-dislikes></span>
+          </button>
+          <button class="track-card__btn track-card__favorite" data-track-action="favorite">
+            <img src="" alt="Favorite" data-svg-icon="favorite">
+            <span data-track-favorites></span>
+          </button>
+        </div>
+        
+        <button class="track-card__btn track-card__download" data-track-action="download">DOWNLOAD</button>
+        
+        <div class="track-card__approve">
+          <button class="track-card__btn track-card__yes" data-track-action="approve">
+            <img src="" alt="Yes" data-svg-icon="approve">
+          </button>
+          <button class="track-card__btn track-card__no" data-track-action="reject">
+            <img src="" alt="No" data-svg-icon="reject">
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</template> 

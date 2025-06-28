@@ -1,0 +1,94 @@
+{
+  "awards": {
+    "gold": {
+      "id": "award-gold",
+      "path": "awards/gold.svg",
+      "alt": "Gold Award",
+      "description": "Золотая награда"
+    },
+    "vip": {
+      "id": "award-vip",
+      "path": "awards/vip.svg",
+      "alt": "VIP Award",
+      "description": "VIP награда"
+    },
+    "platinum": {
+      "id": "award-platinum",
+      "path": "awards/platinum.svg",
+      "alt": "Platinum Award", 
+      "description": "Платиновая награда"
+    }
+  },
+  "actions": {
+    "like": {
+      "id": "action-like",
+      "path": "track-card/like.svg",
+      "alt": "Like",
+      "description": "Лайк"
+    },
+    "dislike": {
+      "id": "action-dislike", 
+      "path": "track-card/dislike.svg",
+      "alt": "Dislike",
+      "description": "Дизлайк"
+    },
+    "favorite": {
+      "id": "action-favorite",
+      "path": "track-card/star.svg",
+      "alt": "Favorite",
+      "description": "В избранное"
+    },
+    "download": {
+      "id": "action-download",
+      "path": "download.svg", 
+      "alt": "Download",
+      "description": "Скачать"
+    },
+    "approve": {
+      "id": "action-approve",
+      "path": "track-card/check.svg",
+      "alt": "Approve",
+      "description": "Одобрить"
+    },
+    "reject": {
+      "id": "action-reject",
+      "path": "track-card/cross.svg",
+      "alt": "Reject", 
+      "description": "Отклонить"
+    }
+  },
+  "header": {
+    "theme-btn": {
+      "id": "header-theme-btn",
+      "path": "theme/theme-btn.svg",
+      "alt": "Light Theme",
+      "description": "Переключить на светлую тему"
+    },
+    "dark-theme-btn": {
+      "id": "header-dark-theme-btn",
+      "path": "theme/dark-theme-btn.svg",
+      "alt": "Dark Theme",
+      "description": "Переключить на темную тему"
+    }
+  },
+  "ui": {
+    "track-cover": {
+      "id": "ui-track-cover",
+      "path": "track-card/track-cover.svg",
+      "alt": "Track Cover",
+      "description": "Обложка трека"
+    }
+  },
+  "password": {
+    "eye-closed": {
+      "id": "password-eye-closed",
+      "path": "password/eye-closed.svg",
+      "alt": "Показать пароль"
+    },
+    "eye-open": {
+      "id": "password-eye-open",
+      "path": "password/eye-open.svg",
+      "alt": "Скрыть пароль"
+    }
+  }
+} 

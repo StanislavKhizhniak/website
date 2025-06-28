@@ -1,0 +1,366 @@
+{
+  "ru": {
+    "nav": {
+      "loops": "ЛУПЫ",
+      "producers": "ПРОДЮСЕРЫ",
+      "news": "НОВОСТИ",
+      "about": "О НАС"
+    },
+    "header": {
+      "signin": "ВОЙТИ"
+    },
+    "footer": {
+      "tagline": "Лупная платформа для творческих людей",
+      "contacts": "Контакты",
+      "email": "Email",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. Все права защищены."
+    },
+    "pages": {
+      "about": {
+        "title": "О НАС",
+        "content": "Страница ABOUT"
+      },
+      "news": {
+        "title": "НОВОСТИ",
+        "content": "Страница новостей"
+      },
+      "producers": {
+        "title": "ПРОДЮСЕРЫ",
+        "content": "Страница продюсеров"
+      },
+      "loops": {
+        "title": "ЛУПЫ",
+        "content": "Страница луп"
+      }
+    },
+    "modal": {
+      "title": "Регистрация",
+      "email": "Email",
+      "password": "Пароль",
+      "confirmPassword": "Подтвердите пароль",
+      "register": "Зарегистрироваться",
+      "close": "Закрыть",
+      "showPassword": "Показать пароль",
+      "hidePassword": "Скрыть пароль",
+      "successMessage": "Регистрация успешна! Проверьте ваш email для подтверждения.",
+      "emailRequired": "Email обязателен",
+      "passwordRequired": "Пароль обязателен",
+      "passwordsNotMatch": "Пароли не совпадают",
+      "invalidEmail": "Неверный формат email"
+    }
+  },
+  "en": {
+    "nav": {
+      "loops": "LOOPS",
+      "producers": "PRODUCERS",
+      "news": "NEWS",
+      "about": "ABOUT"
+    },
+    "header": {
+      "signin": "SIGN IN"
+    },
+    "footer": {
+      "tagline": "Loop platform for creative people",
+      "contacts": "Contacts",
+      "email": "Email",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. All rights reserved."
+    },
+    "pages": {
+      "about": {
+        "title": "ABOUT",
+        "content": "About page"
+      },
+      "news": {
+        "title": "NEWS",
+        "content": "News page"
+      },
+      "producers": {
+        "title": "PRODUCERS",
+        "content": "Producers page"
+      },
+      "loops": {
+        "title": "LOOPS",
+        "content": "Loops page"
+      }
+    },
+    "modal": {
+      "title": "Registration",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "register": "Register",
+      "close": "Close",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password",
+      "successMessage": "Registration successful! Check your email for confirmation.",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "passwordsNotMatch": "Passwords do not match",
+      "invalidEmail": "Invalid email format"
+    }
+  },
+  "de": {
+    "nav": {
+      "loops": "LOOPS",
+      "producers": "PRODUZENTEN",
+      "news": "NACHRICHTEN",
+      "about": "ÜBER UNS"
+    },
+    "header": {
+      "signin": "ANMELDEN"
+    },
+    "footer": {
+      "tagline": "Loop-Plattform für kreative Menschen",
+      "contacts": "Kontakte",
+      "email": "E-Mail",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. Alle Rechte vorbehalten."
+    },
+    "pages": {
+      "about": {
+        "title": "ÜBER UNS",
+        "content": "Über uns Seite"
+      },
+      "news": {
+        "title": "NACHRICHTEN",
+        "content": "Nachrichten Seite"
+      },
+      "producers": {
+        "title": "PRODUZENTEN",
+        "content": "Produzenten Seite"
+      },
+      "loops": {
+        "title": "LOOPS",
+        "content": "Loops Seite"
+      }
+    },
+    "modal": {
+      "title": "Registrierung",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "register": "Registrieren",
+      "close": "Schließen",
+      "showPassword": "Passwort anzeigen",
+      "hidePassword": "Passwort ausblenden",
+      "successMessage": "Registrierung erfolgreich! Überprüfen Sie Ihre E-Mail zur Bestätigung.",
+      "emailRequired": "E-Mail ist erforderlich",
+      "passwordRequired": "Passwort ist erforderlich",
+      "passwordsNotMatch": "Passwörter stimmen nicht überein",
+      "invalidEmail": "Ungültiges E-Mail-Format"
+    }
+  },
+  "pl": {
+    "nav": {
+      "loops": "PĘTLE",
+      "producers": "PRODUCENCI",
+      "news": "WIADOMOŚCI",
+      "about": "O NAS"
+    },
+    "header": {
+      "signin": "ZALOGUJ"
+    },
+    "footer": {
+      "tagline": "Platforma pętli dla kreatywnych ludzi",
+      "contacts": "Kontakty",
+      "email": "Email",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. Wszystkie prawa zastrzeżone."
+    },
+    "pages": {
+      "about": {
+        "title": "O NAS",
+        "content": "Strona o nas"
+      },
+      "news": {
+        "title": "WIADOMOŚCI",
+        "content": "Strona wiadomości"
+      },
+      "producers": {
+        "title": "PRODUCENCI",
+        "content": "Strona producentów"
+      },
+      "loops": {
+        "title": "PĘTLE",
+        "content": "Strona pętli"
+      }
+    },
+    "modal": {
+      "title": "Rejestracja",
+      "email": "Email",
+      "password": "Hasło",
+      "confirmPassword": "Potwierdź hasło",
+      "register": "Zarejestruj",
+      "close": "Zamknij",
+      "showPassword": "Pokaż hasło",
+      "hidePassword": "Ukryj hasło",
+      "successMessage": "Rejestracja udana! Sprawdź swój email w celu potwierdzenia.",
+      "emailRequired": "Email jest wymagany",
+      "passwordRequired": "Hasło jest wymagane",
+      "passwordsNotMatch": "Hasła nie pasują",
+      "invalidEmail": "Nieprawidłowy format email"
+    }
+  },
+  "es": {
+    "nav": {
+      "loops": "LOOPS",
+      "producers": "PRODUCTORES",
+      "news": "NOTICIAS",
+      "about": "ACERCA DE"
+    },
+    "header": {
+      "signin": "INICIAR SESIÓN"
+    },
+    "footer": {
+      "tagline": "Plataforma de loops para personas creativas",
+      "contacts": "Contactos",
+      "email": "Correo electrónico",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. Todos los derechos reservados."
+    },
+    "pages": {
+      "about": {
+        "title": "ACERCA DE",
+        "content": "Página Acerca de"
+      },
+      "news": {
+        "title": "NOTICIAS",
+        "content": "Página de noticias"
+      },
+      "producers": {
+        "title": "PRODUCTORES",
+        "content": "Página de productores"
+      },
+      "loops": {
+        "title": "LOOPS",
+        "content": "Página de loops"
+      }
+    },
+    "modal": {
+      "title": "Registro",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "register": "Registrarse",
+      "close": "Cerrar",
+      "showPassword": "Mostrar contraseña",
+      "hidePassword": "Ocultar contraseña",
+      "successMessage": "¡Registro exitoso! Revisa tu correo electrónico para confirmar.",
+      "emailRequired": "El correo electrónico es requerido",
+      "passwordRequired": "La contraseña es requerida",
+      "passwordsNotMatch": "Las contraseñas no coinciden",
+      "invalidEmail": "Formato de correo electrónico inválido"
+    }
+  },
+  "pt": {
+    "nav": {
+      "loops": "LOOPS",
+      "producers": "PRODUTORES",
+      "news": "NOTÍCIAS",
+      "about": "SOBRE"
+    },
+    "header": {
+      "signin": "ENTRAR"
+    },
+    "footer": {
+      "tagline": "Plataforma de loops para pessoas criativas",
+      "contacts": "Contatos",
+      "email": "Email",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. Todos os direitos reservados."
+    },
+    "pages": {
+      "about": {
+        "title": "SOBRE",
+        "content": "Página Sobre"
+      },
+      "news": {
+        "title": "NOTÍCIAS",
+        "content": "Página de notícias"
+      },
+      "producers": {
+        "title": "PRODUTORES",
+        "content": "Página de produtores"
+      },
+      "loops": {
+        "title": "LOOPS",
+        "content": "Página de loops"
+      }
+    },
+    "modal": {
+      "title": "Registro",
+      "email": "Email",
+      "password": "Senha",
+      "confirmPassword": "Confirmar senha",
+      "register": "Registrar",
+      "close": "Fechar",
+      "showPassword": "Mostrar senha",
+      "hidePassword": "Ocultar senha",
+      "successMessage": "Registro bem-sucedido! Verifique seu email para confirmação.",
+      "emailRequired": "Email é obrigatório",
+      "passwordRequired": "Senha é obrigatória",
+      "passwordsNotMatch": "As senhas não coincidem",
+      "invalidEmail": "Formato de email inválido"
+    }
+  },
+  "ja": {
+    "nav": {
+      "loops": "ループ",
+      "producers": "プロデューサー",
+      "news": "ニュース",
+      "about": "について"
+    },
+    "header": {
+      "signin": "サインイン"
+    },
+    "footer": {
+      "tagline": "クリエイティブな人々のためのループプラットフォーム",
+      "contacts": "お問い合わせ",
+      "email": "メールアドレス",
+      "telegram": "Telegram",
+      "discord": "Discord",
+      "copyright": "© 2025 COLLAB CONNECT. 全著作権所有。"
+    },
+    "pages": {
+      "about": {
+        "title": "について",
+        "content": "についてのページ"
+      },
+      "news": {
+        "title": "ニュース",
+        "content": "ニュースページ"
+      },
+      "producers": {
+        "title": "プロデューサー",
+        "content": "プロデューサーページ"
+      },
+      "loops": {
+        "title": "ループ",
+        "content": "ループページ"
+      }
+    },
+    "modal": {
+      "title": "登録",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "confirmPassword": "パスワード確認",
+      "register": "登録",
+      "close": "閉じる",
+      "showPassword": "パスワードを表示",
+      "hidePassword": "パスワードを隠す",
+      "successMessage": "登録が完了しました！確認のためメールをチェックしてください。",
+      "emailRequired": "メールアドレスが必要です",
+      "passwordRequired": "パスワードが必要です",
+      "passwordsNotMatch": "パスワードが一致しません",
+      "invalidEmail": "無効なメール形式です"
+    }
+  }
+} 
